@@ -1,0 +1,16 @@
+Pair,F_value,R_squared,P_value,FDR,Significance
+FrutafitIQ vs FrutaloseOFP,0.030375,0.0037825,0.954,0.954,ns
+FrutafitIQ vs Inoculum,2.2075,0.21626,0.041,0.068333,ns
+FrutafitIQ vs MangabaExt,0.53593,0.062785,0.897,0.954,ns
+FrutafitIQ vs MangabaPulp,0.44541,0.05274,0.877,0.954,ns
+FrutafitIQ vs NC,2.8896,0.26536,0.004,0.03375,*
+FrutaloseOFP vs Inoculum,2.4193,0.23219,0.037,0.068333,ns
+FrutaloseOFP vs MangabaExt,0.55128,0.064468,0.837,0.954,ns
+FrutaloseOFP vs MangabaPulp,0.47877,0.056467,0.825,0.954,ns
+FrutaloseOFP vs NC,2.9242,0.26768,0.009,0.03375,*
+Inoculum vs MangabaExt,3.3422,0.29467,0.022,0.055,ns
+Inoculum vs MangabaPulp,3.3463,0.29493,0.029,0.062143,ns
+Inoculum vs NC,4.2485,0.34686,0.012,0.036,*
+MangabaExt vs MangabaPulp,0.27265,0.032958,0.876,0.954,ns
+MangabaExt vs NC,4.1784,0.3431,0.009,0.03375,*
+MangabaPulp vs NC,3.8821,0.32672,0.009,0.03375,*
